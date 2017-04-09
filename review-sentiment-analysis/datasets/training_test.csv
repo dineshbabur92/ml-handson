@@ -1,0 +1,22 @@
+ReviewId,ProductName,Review,Sentiment
+451,iphone,worst price rate,negative
+452,htc,worst specification,negative
+453,windows,worst os,negative
+454,iphone,worst phone at this price,negative
+455,windows,i dont want to buy windows phone again,negative
+456,iphone,worst battery life,negative
+457,windows,worst phone ever,negative
+457,htc,worst phone ever,negative
+457,iphone,worst phone ever,negative
+1,iphone, best interface, positive
+2,window, best battery backup but not good interface, neutral
+3,htc,good design but can be cheaper, neutral
+4,iphone, best phone but too costly, neutral
+5,iphone, best phone, positive
+6, windows, good phone, positive
+7, htc, one of the best phones, positive
+8, windows, best support, positive
+9, htc, best design, positive
+10, windows, navigations are good, positive
+11, windows, should improve, neutral
+12, iphone, fancy and best phone, positive

@@ -19,7 +19,8 @@ class GenTransform:
     @staticmethod
     def generateValueColumns(df, columns):
         for column in columns:
-            df = pd.concat([df.drop(column, axis=1), df[column].str.get_dummies()], axis = 1);
+#             df = pd.concat([df.drop(column, axis=1), df[column].str.get_dummies()], axis = 1);
+            df = pd.concat([df.drop(column, axis=1), df[column].str.lower().str.strip().str.get_dummies()], axis = 1);
         return df;
     
     @staticmethod

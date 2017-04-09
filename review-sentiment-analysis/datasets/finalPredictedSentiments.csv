@@ -1,51 +1,19 @@
-,0
-0,positive
-1,negative
-2,neutral
-3,positive
-4,positive
-5,negative
-6,positive
-7,negative
-8,neutral
-9,negative
-10,neutral
-11,positive
-12,neutral
-13,negative
-14,neutral
-15,positive
-16,positive
-17,neutral
-18,neutral
-19,negative
-20,positive
-21,positive
-22,neutral
-23,negative
-24,negative
-25,positive
-26,neutral
-27,neutral
-28,positive
-29,negative
-30,negative
-31,positive
-32,positive
-33,positive
-34,positive
-35,negative
-36,positive
-37,positive
-38,neutral
-39,positive
-40,neutral
-41,negative
-42,positive
-43,neutral
-44,negative
-45,positive
-46,negative
-47,positive
-48,neutral
-49,negative
+,ReviewId,ProductName,Review,Sentiment
+0,58e9efd543080021dc065ccc,HTC,good phone,positive
+1,58e9efd543080021dc065ccc,HTC,bad phone,negative
+2,58e9efd543080021dc065ccc,HTC,this is not a good phone,negative
+3,58e9efd543080021dc065ccc,HTC,i dont like this phone,negative
+4,58e9efd543080021dc065ccc,HTC,worst phone ever,negative
+5,58e9efd543080021dc065ccc,HTC,hate this phone,negative
+6,58e9efd543080021dc065ccc,HTC,dont buy this phone,negative
+7,58e9efd543080021dc065ccc,HTC,costly but good,neutral
+8,58e9efd543080021dc065ccc,HTC,never go with this,positive
+9,58e9efd543080021dc065ccc,HTC,best phone at this price range,positive
+10,58e9efd543080021dc065ccd,Windows,dont buy this phone,negative
+11,58e9efd543080021dc065ccd,Windows,i dont like this phone,negative
+12,58e9efd543080021dc065ccd,Windows,good phone,positive
+13,58e9efd543080021dc065ccd,Windows,do not purchase this,negative
+14,58e9efd543080021dc065ccd,Windows,hate this product,positive
+15,58e9efd543080021dc065ccd,Windows,worst phone ever,negative
+16,58e9efd543080021dc065ccd,Windows,price too high but good phone,positive
+17,58e9efd543080021dc065ccd,Windows,costly but worth,neutral
